@@ -28,4 +28,4 @@ x-Access-Token:eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwicm9sZXMiOiJ1c2VyIiwiZXhw
 
 
 ###
-GET http://localhost:8080/CA2_war_exploded/api/info/user
+
