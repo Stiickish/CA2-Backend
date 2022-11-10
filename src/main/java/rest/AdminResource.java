@@ -1,4 +1,5 @@
 package rest;
+
 import entities.User;
 import utils.EMF_Creator;
 

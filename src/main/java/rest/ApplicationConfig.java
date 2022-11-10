@@ -34,5 +34,5 @@ public class ApplicationConfig extends Application {
         resources.add(AdminResource.class);
         resources.add(UserResource.class);
     }
-    
+
 }
